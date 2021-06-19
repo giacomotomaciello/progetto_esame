@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<library xmlns:dc="http://purl.org/dc/elements/1.1" xml:id="OE900-C"> <!--Orfeo Euridice 900 - Catalogo-->
+		<volume xml:id="OE900-C-01">
+			<dc:title>L'inconsolabile</dc:title>
+			<dc:creator>Pavese, Cesare (1908-1950)</dc:creator>
+			<dc:subject>narrativa</dc:subject>
+			<dc:subject>racconti</dc:subject>
+			<dc:description>In questo racconto, contenuto all'interno dei Dialoghi con Leucò, l'autore fa dialogare Orfeo e Bacca, in un momento successivo alla scomparsa di Euridice nel regno dei morti, avviando una riflessione sul destino e sull'esistenza umana.</dc:description>
+			<dc:publisher>Catia Righi</dc:publisher>
+			<dc:contributor>Cristina Rosanda</dc:contributor>
+			<dc:contributor>Gabriella Dodero</dc:contributor>
+			<dc:date>2021/04/21</dc:date>
+			<dc:type>e-book</dc:type>
+			<dc:format>PDF</dc:format>
+			<dc:identifier>https://www.liberliber.it/online/autori/autori-p/cesare-pavese/dialoghi-con-leuco/</dc:identifier>
+			<dc:source>
+				<dc:title>Dialoghi con Leucò</dc:title>
+				<dc:author>Pavese, Cesare (1908-1950)</dc:author>
+				<dc:date>1960 [3. ed]</dc:date>
+				<dc:publisher>G. Einaudi</dc:publisher>
+				<dc:type>book</dc:type>
+				<dc:format>213 p.; 22 cm</dc:format>
+				<dc:identifier>IT\ICCU\MIL\0411074</dc:identifier>
+				<dc:coverage>Torino</dc:coverage>
+			</dc:source>
+			<dc:language>it</dc:language>
+			<dc:coverage>Italia</dc:coverage>
+			<dc:rights>https://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+		</volume>
+	</library>

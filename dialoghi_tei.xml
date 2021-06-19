@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'inconsolabile</title>
+				<author>Pavese, Cesare (1908-1950)</author>
+				<respStmt>
+					<name>Cristina Rosanda</name>
+					<resp>Digitalizzazione</resp>
+				</respStmt>
+				<respStmt>
+					<name>Gabriella Dodero</name>
+					<resp>Revisione</resp>
+					<resp>Impaginazione</resp>
+				</respStmt>
+				<respStmt>
+					<name xml:id="GT">Giacomo Tomaciello</name>
+					<resp>Marcatura</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Catia Righi</publisher>
+				<distributor>www.liberliber.it</distributor>
+				<availability>
+					<licence>https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it</licence>
+				</availability>
+				<date>2021/04/21</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Pavese, Cesare (1908-1950)</author>
+					<publisher>G. Einaudi</publisher>
+					<title>Dialoghi con Leucò</title>
+					<date>1960</date>
+					<pubPlace>Torino</pubPlace>
+					<edition>3. ed</edition>
+					<idno>IT\ICCU\MIL\0411074</idno>
+					<extent>213 p.</extent>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<titlePage>
+			<docTitle>
+				<p>L’inconsolabile</p>
+			</docTitle>
+		</titlePage>
+		<div type="abstract">
+			<p>Il sesso, l’ebbrezza e il sangue richiamarono sempre il mondo sotterraneo e promisero a piú d’uno beatitudini ctonie. Ma il tracio Orfeo, cantore, viandante nell’Ade e vittima lacerata come lo stesso Dioniso, valse di piú.</p>
+		</div>
+		<stage type="entrance">(parlano Orfeo e Bacca)</stage>
+		<sp>
+			<speaker>ORFEO</speaker>
+			<p>È andata cosí. Salivamo il sentiero tra il bosco delle ombre. Erano già lontani <name type="place">Cocito</name>, lo <name type="place">Stige</name>, la barca, i lamenti. S’intravvedeva sulle foglie il barlume del cielo. Mi sentivo alle spalle il fruscío del suo passo. Ma io ero ancora laggiú e avevo addosso quel freddo. Pensavo che un giorno avrei dovuto tornarci, che ciò ch’è stato sarà ancora. Pensavo alla vita con lei, com’era prima; che un’altra volta sarebbe finita. Ciò ch’è stato sarà. Pensavo a quel gelo, a quel vuoto che avevo traversato e che lei si portava nelle ossa, nel midollo, nel sangue. Valeva la pena di rivivere ancora? Ci pensai, e intravvidi il barlume del giorno. Allora dissi «Sia finita» e mi voltai. Euridice scomparve come si spegne una candela. Sentii soltanto un cigolío, come d’un topo che si salva.</p>
+		</sp>
+		<sp>
+			<speaker>BACCA</speaker>
+			<p>Strane parole, <name type="character">Orfeo</name>. Quasi non posso crederci. Qui si diceva ch’eri caro agli dèi e alle muse. Molte di noi ti seguono perché ti sanno innamorato e infelice. Eri tanto innamorato che – solo tra gli uomini – hai varcato le porte del nulla. No, non ci credo, <name type="character">Orfeo</name>. Non è stata tua colpa se il destino ti ha tradito.</p>
+		</sp>
+		<sp>
+		<speaker>ORFEO</speaker>
+		<p>Che c’entra il destino. Il mio destino non tradisce. Ridicolo che dopo quel viaggio, dopo aver visto in faccia il nulla, io mi voltassi per errore o per capriccio.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Qui si dice che fu per amore.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Non si ama chi è morto.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Eppure hai pianto per monti e colline – l’hai cercata e chiamata – sei disceso nell’<name type="place">Ade</name>. Questo cos’era?</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Tu dici che sei come un uomo. Sappi dunque che un uomo non sa che farsi della morte. L’<name type="character">Euridice</name> che ho pianto era una stagione della vita. Io cercavo ben altro laggiú che il suo amore. Cercavo un passato che <name type="character">Euridice</name> non sa. L’ho capito tra i morti mentre cantavo il mio canto. Ho visto le ombre irrigidirsi e guardar vuoto, i lamenti cessare, <name type="character">Persefòne</name> nascondersi il volto, lo stesso tenebroso-impassibile, <name type="character">Ade</name>, protendersi come un mortale e ascoltare. Ho capito che i morti non sono piú nulla.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Il dolore ti ha stravolto, <name type="character">Orfeo</name>. Chi non rivorrebbe il passato? <name type="character">Euridice</name> era quasi rinata.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Per poi morire un’altra volta, <name type="character">Bacca</name>. Per portarsi nel sangue l’orrore dell’ <name type="place">Ade</name> e tremare con me giorno e notte. Tu non sai cos’è il nulla.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>E cosí tu che cantando avevi riavuto il passato, l’hai respinto e distrutto. No, non ci posso credere.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Capiscimi, <name type="character">Bacca</name>. Fu un vero passato soltanto nel canto. L’<name type="place">Ade</name> vide se stesso soltanto ascoltandomi. Già salendo il sentiero quel passato svaniva, si faceva ricordo, sapeva di morte. Quando mi giunse il primo barlume di cielo, trasalii come un ragazzo, felice e incredulo, trasalii per me solo, per il mondo dei vivi. La stagione che avevo cercato era là in quel barlume. Non m’importò nulla di lei che mi seguiva. Il mio passato fu il chiarore, fu il canto e il mattino. E mi voltai.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Come hai potuto rassegnarti, <name type="character">Orfeo</name>? Chi ti ha visto al ritorno facevi paura. <name type="character">Euridice</name> era stata per te un’esistenza.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Sciocchezze. <name type="character">Euridice</name> morendo divenne altra cosa. Quell’<name type="character">Orfeo</name> che discese nell’<name type="place">Ade</name>, non era piú sposo né vedovo. Il mio pianto d’allora fu come i pianti che si fanno da ragazzo e si sorride a ricordarli. La stagione è passata. Io cercavo, piangendo, non piú lei ma me stesso. Un destino, se vuoi. Mi ascoltavo.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Molte di noi ti vengon dietro perché credevano a questo tuo pianto. Tu ci hai dunque ingannate?</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>O <name type="character">Bacca</name>, <name type="character">Bacca</name>, non vuoi proprio capire? Il mio destino non tradisce. Ho cercato me stesso. Non si cerca che questo.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Qui noi siamo piú semplici, <name type="character">Orfeo</name>. Qui crediamo all’amore e alla morte, e piangiamo e ridiamo con tutti. Le nostre feste piú gioiose sono quelle dove scorre del sangue. Noi, le donne di <name type="place">Tracia</name>, non le temiamo queste cose.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Visto dal lato della vita tutto è bello. Ma credi a chi è stato tra i morti… Non vale la pena.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Un tempo non eri cosí. Non parlavi del nulla. Accostare la morte ci fa simili agli dèi. Tu stesso insegnavi che un’ebbrezza travolge la vita e la morte e ci fa piú che umani… Tu hai veduto la festa.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Non è il sangue ciò che conta, ragazza. Né l’ebbrezza né il sangue mi fanno impressione. Ma che cosa sia un uomo è ben difficile dirlo. Neanche tu, <name type="character">Bacca</name>, lo sai.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Senza di noi saresti nulla, <name type="character">Orfeo</name>.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Lo dicevo e lo so. Ma poi che importa? Senza di voi sono disceso all’<name type="place">Ade</name>…</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Sei disceso a cercarci.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Ma non vi ho trovate. Volevo tutt’altro. Che tornando alla luce ho trovato.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Un tempo cantavi <name type="character">Euridice</name> sui monti…</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Il tempo passa, <name type="character">Bacca</name>. Ci sono i monti, non c’è piú <name type="character">Euridice</name>. Queste cose hanno un nome, e si chiamano uomo. Invocare gli dèi della festa qui non serve.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Anche tu li invocavi.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Tutto fa un uomo, nella vita. Tutto crede, nei giorni. Crede perfino che il suo sangue scorra alle volte in vene altrui. O che quello che è stato si possa disfare. Crede di rompere il destino con l’ebbrezza. Tutto questo lo so, e non è nulla.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Non sai che farti della morte, <name type="character">Orfeo</name>, e il tuo pensiero è solo morte. Ci fu un tempo che la festa ci rendeva immortali.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>E voi godetela la festa. Tutto è lecito a chi non sa ancora. È necessario che ciascuno scenda una volta nel suo inferno. L’orgia del mio destino è finita nell’<name type="place">Ade</name>, finita cantando secondo i miei modi la vita e la morte.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>E che vuol dire che un destino non tradisce?</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Vuol dire che è dentro di te, cosa tua; piú profondo del sangue, di là da ogni ebbrezza. Nessun dio può toccarlo.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Può darsi, <name type="character">Orfeo</name>. Ma noi non cerchiamo nessuna <name type="character">Euridice</name>. Com’è dunque che scendiamo all’inferno anche noi?</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Tutte le volte che s’invoca un dio si conosce la morte. E si scende nell’<name type="place">Ade</name> a strappare qualcosa, a violare un destino. Non si vince la notte, e si perde la luce. Ci si dibatte come ossessi.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Dici cose cattive… Dunque hai perso la luce anche tu?</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Ero quasi perduto, e cantavo. Comprendendo ho trovato me stesso.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Vale la pena di trovarsi in questo modo? C’è una strada piú semplice d’ignoranza e di gioia. Il dio è come un signore tra la vita e la morte. Ci si abbandona alla sua ebbrezza, si dilania o si vien dilaniate. Si rinasce ogni volta, e ci si sveglia come te nel giorno.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Non parlare di giorno, di risveglio. Pochi uomini sanno. Nessuna donna come te, sa cosa sia.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Forse è per questo che ti seguono, le donne della <name type="place">Tracia</name>. Tu sei per loro come il dio. Sei disceso dai monti. Canti versi di amore e di morte.</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Sciocca. Con te si può parlare almeno. Forse un giorno sarai come un uomo.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Purché prima le donne di <name type="place">Tracia</name>…</p>
+	</sp>
+	<sp>
+		<speaker>ORFEO</speaker>
+		<p>Di’.</p>
+	</sp>
+	<sp>
+		<speaker>BACCA</speaker>
+		<p>Purché non sbranino il dio.</p>
+	</sp>
+
+	</text>
+</TEI>
