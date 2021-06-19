@@ -2,6 +2,7 @@ body {
 	background-color: #ebebe0;
 }
 
+
 h1 {
 	font-family: 'Playfair Display', sans-serif;
 	text-align: center;
@@ -9,11 +10,13 @@ h1 {
 	font-size: 50px;
 }
 
+
 section {
 	font-family: 'Lora', serif;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+
 
 /*stile paragrafo schermata introduttiva*/
 section p {
@@ -21,9 +24,11 @@ section p {
 	font-size: 20px;
 }
 
+
 .col-8 {
 	background-color: #F1F1F1;
 }
+
 
 /*stile immagine schermata introduttiva*/
 #opening {
@@ -32,6 +37,7 @@ section p {
 	margin-top: 75px;
 }
 
+
 /*stile footer*/
 footer {
 	bottom: 0px;
@@ -39,14 +45,17 @@ footer {
  	width: 100%;
  }
 
+
 #back {
 	float:right;
 	margin-right: 50px;
 }
 
+
 footer p {
 	margin-left: 150px;
 }
+
 
 /*stile h2 non index*/
 .main {
@@ -59,42 +68,51 @@ footer p {
 	background-color: #F1F1F1
 }
 
+
 /*titolo tabella item*/
 #table_title {
 	margin-top: 40px;
 }
 
+
 h3 {
 	font-size: 25px
 }
+
 
 /*stile tabella*/
 td thead {
 	background-color: white;
 }
 
+
 tbody {
 	background-color: #F1F1F1
 }
+
 
 table a:visited {
 	color: #6600cc;
 }
 
-/*stile aside pagina item*/
+
+/*stile aside pagina item e catalogo*/
 .aside {
 	padding: 10px;
 }
+
 
 /*stile card*/
 .card-text {
 	font-size: 18px;
 }
 
+
 .card {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+
 
 /*stile form navbar*/
 form {
@@ -102,10 +120,6 @@ form {
 	right: 10px;
 }
 
-/*stile aside catalogo*/
-.btn btn-secondary{
-	padding: 10px;
-}
 
 /*stile img dialoghi*/
 section img {
